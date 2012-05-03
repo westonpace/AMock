@@ -8,3 +8,5 @@
 # Eclipse Files #
 *.project
 *.classpath
+/.settings
+/target
